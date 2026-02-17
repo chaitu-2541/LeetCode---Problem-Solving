@@ -12,3 +12,4 @@ class LC55 {
     return false; 
     }
 }
+
