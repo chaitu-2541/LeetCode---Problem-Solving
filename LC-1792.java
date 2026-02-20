@@ -33,3 +33,4 @@ class Solution {
         return ( (double)(pass+1) / (total+1) ) - ((double)pass / total);
     }
 }
+
