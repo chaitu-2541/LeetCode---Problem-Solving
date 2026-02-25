@@ -23,4 +23,5 @@ class LC2787 {
             }
         } return (int) dp[n];
     }
+
 }
