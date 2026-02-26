@@ -8,4 +8,5 @@
 
 
 -- LC1683.sql
+
 SELECT tweet_id FROM Tweets WHERE LENGTH(content) > 15;
